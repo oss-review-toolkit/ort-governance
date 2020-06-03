@@ -1,12 +1,12 @@
-# Technical Charter (the “Charter”) for [Automated Compliance Tooling - Name TBD] Project a Series of LF Projects, LLC
+# Technical Charter (the “Charter”) for OSS Review Toolkit Project a Series of LF Projects, LLC
  
-Adopted [DATE], 2019
+Adopted December 18, 2019
 
-This charter (the “Charter”) sets forth the responsibilities and procedures for technical contribution to, and oversight of, the [Automated Compliance Tooling - Name TBD] community project, which has been established as [Automated Compliance Tooling - Name TBD] Project a Series of LF Projects, LLC (the “Project”). LF Projects, LLC (“LF Projects”) is a Delaware series limited liability company. All Contributors to the Project must comply with the terms of this Charter.
+This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the OSS Review Toolkit open source project, which has been established as OSS Review Toolkit Project a Series of LF Projects, LLC (the “Project”). LF Projects, LLC (“LF Projects”) is a Delaware series limited liability company. All contributors (including committers, maintainers, and other technical positions) and other participants in the Project (collectively, “Collaborators”) must comply with the terms of this Charter.
 
 ## 1. Mission and Scope of the Project
 
-A. The mission of the Project is to develop open source [scope], including infrastructure and support initiatives related thereto.
+A. The mission of the Project is to enable open source reviews during source creation by providing easy, open-source & scalable tooling for developers to do basic compliance in CI/CD and share results in open standard formats.
 
 B. The scope of the Project includes collaborative development under the Project License (as defined herein) supporting the mission, including documentation, testing, integration and the creation of other artifacts that aid the development, deployment, operation or adoption of the open source project.
 
@@ -28,7 +28,7 @@ D. Participation in the Project through becoming a Contributor and Committer is 
 
 E. The TSC may (1) establish workflow procedures for the submission, approval, and closure/archiving of projects, (2) set requirements for the promotion of Contributors to Committer status, as applicable, and (3) amend, adjust, refine and/or eliminate the roles of Contributors, and Committers, and create new roles, and publicly document any TSC roles, as it sees fit.
 
-F. The TSC may elect a TSC Chair (also known as the project lead), who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC. The TSC Chair, or any other TSC member so designated by the TSC, will serve as the primary communication contact between the Project and the [Automated Compliance Tooling - Name TBD] Project Fund of the Linux Foundation.
+F. The TSC may elect a TSC Chair (also known as the project lead), who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC. The TSC Chair, or any other TSC member so designated by the TSC, will serve as the primary communication contact between the Project and the Automated Compliance Tooling (ACT) Project Fund of the Linux Foundation.
 
 G. Responsibilities: The TSC will be responsible for all aspects of oversight relating Project, which may include:
 
@@ -94,15 +94,13 @@ A. Collaborators acknowledge that the copyright in all new contributions will be
 
 B. Except as described in Section 7.c., all contributions to the Project are subject to the following:
 
-i. All new inbound code contributions to the Project must be made using the [XYZ] License, (available here [URL], the “Project License”).
+i. All new inbound code contributions to the Project must be made using the Apache 2.0 license, available at <https://opensource.org/licenses/Apache-2.0> (the “Project License”).
 
 ii. All new inbound code contributions must also be accompanied by a Developer Certificate of Origin (<http://developercertificate.org>) sign-off in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
 
 iii. All outbound code will be made available under the Project License.
 
-iv. Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0).
-
-v. The Project may seek to integrate and contribute back to other open source projects (“Upstream Projects”). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project. Upstream Project code contributions not stored within the Project’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
+iv. The Project may seek to integrate and contribute back to other open source projects (“Upstream Projects”). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project. Upstream Project code contributions not stored within the Project’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
 
 C. The TSC may approve the use of an alternative license or licenses for inbound or outbound contributions on an exception basis. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Project. License exceptions must be approved by a two-thirds vote of the entire TSC.
 
