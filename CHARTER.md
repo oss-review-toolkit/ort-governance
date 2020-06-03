@@ -1,12 +1,12 @@
 # Technical Charter (the “Charter”) for OSS Review Toolkit Project a Series of LF Projects, LLC
  
-Adopted December 18, 2019
+Adopted April 30, 2020
 
 This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the OSS Review Toolkit open source project, which has been established as OSS Review Toolkit Project a Series of LF Projects, LLC (the “Project”). LF Projects, LLC (“LF Projects”) is a Delaware series limited liability company. All contributors (including committers, maintainers, and other technical positions) and other participants in the Project (collectively, “Collaborators”) must comply with the terms of this Charter.
 
 ## 1. Mission and Scope of the Project
 
-A. The mission of the Project is to enable open source reviews during source creation by providing easy, open-source & scalable tooling for developers to do basic compliance in CI/CD and share results in open standard formats.
+A. The mission of the Project is to enable highly automated compliance checks in CI/CD by providing easy, open-source & scalable tooling and to share results in open standard formats.
 
 B. The scope of the Project includes collaborative development under the Project License (as defined herein) supporting the mission, including documentation, testing, integration and the creation of other artifacts that aid the development, deployment, operation or adoption of the open source project.
 
@@ -76,7 +76,7 @@ E. The Project will operate in a transparent, open, collaborative, and ethical m
 
 A. LF Projects will hold title to all trade or service marks used by the Project (“Project Trademarks”), whether based on common law or registered rights. Project Trademarks will be transferred and assigned to LF Projects to hold on behalf of the Project. Any use of any Project Trademarks by Collaborators in the Project will be in accordance with the license from LF Projects and inure to the benefit of LF Projects.
 
-B. The Project will, as permitted and in accordance with such license from LF Projects, develop and own all Project code repositories and social media accounts, and domain name registrations created by the Project community.
+B. The Project will, as permitted and in accordance with such license from LF Projects, develop and own all Project code repositories and accounts on third party services (e.g. developer services, social media and domain name registrations) created by the Project community.
 
 C. Under no circumstances will LF Projects be expected or required to undertake any action on behalf of the Project that is inconsistent with the tax-exempt status or purpose, as applicable, of LFP, Inc. or LF Projects, LLC.
 
