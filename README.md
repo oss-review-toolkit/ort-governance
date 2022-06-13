@@ -19,7 +19,8 @@ All meetings in person or online are held under [OSS Review Toolkit's charter](C
 You can find the meeting minutes in the [minutes directory](./minutes/) in this repository.
 
 Unless otherwise indicated the below names in the minutes refer to the following persons:
-- *Frank*: Frank Viernau ([@fviernau](https://github.com/fviernau)])
+- *Frank*: Frank Viernau ([@fviernau](https://github.com/fviernau))
+- *Marcel*: Marcel Bochtler ([@MarcelBochtler](https://github.com/MarcelBochtler))
 - *Martin*: Martin Nonnenmacher ([@mnonnenmacher](https://github.com/mnonnenmacher))
 - *Sebastian*: Sebastian Schuberth ([@sschuberth](https://github.com/sschuberth))
 - *Thomas*: Thomas Steenbergen ([@tsteenbe](https://github.com/tsteenbe))
