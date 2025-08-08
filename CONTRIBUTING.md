@@ -5,6 +5,7 @@ The Technical Steering Committee (the “TSC”) is responsible for all technica
 TSC members (in alphabetical order):
 
 * Frank Viernau ([@fviernau](https://github.com/fviernau))
+* Marcel Bochtler ([@MarcelBochtler](https://github.com/MarcelBochtler))
 * Martin Nonnenmacher ([@mnonnenmacher](https://github.com/mnonnenmacher))
 * Sebastian Schuberth ([@sschuberth](https://github.com/sschuberth))
 * Thomas Steenbergen ([@tsteenbe](https://github.com/tsteenbe))
