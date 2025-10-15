@@ -8,6 +8,9 @@ The charter for OSS Review Toolkit (ORT) can be found at:
 
 https://github.com/oss-review-toolkit/ort-governance/blob/master/CHARTER.md
 
+Note: The charter refers to a Series Manager, which is the Manager of LF Projects ([manager@lfprojects.org](mailto:manager@lfprojects.org)),
+as defined on [lfprojects.org](https://lfprojects.org).
+
 ### Technical Steering Committee
 
 As per ORT's charter, the project has a Technical Steering Committee (TSC) made up of the following members:
