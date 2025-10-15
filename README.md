@@ -8,6 +8,16 @@ The charter for OSS Review Toolkit (ORT) can be found at:
 
 https://github.com/oss-review-toolkit/ort-governance/blob/master/CHARTER.md
 
+### Technical Steering Committee
+
+As per ORT's charter, the project has a Technical Steering Committee (TSC) made up of the following members:
+
+- Frank Viernau ([@fviernau](https://github.com/fviernau))
+- Marcel Bochtler ([@MarcelBochtler](https://github.com/MarcelBochtler))
+- Martin Nonnenmacher ([@mnonnenmacher](https://github.com/mnonnenmacher))
+- Sebastian Schuberth ([@sschuberth](https://github.com/sschuberth))
+- Thomas Steenbergen ([@tsteenbe](https://github.com/tsteenbe))
+
 ## Meetings
 
 ### Rules
@@ -37,4 +47,3 @@ Unless otherwise indicated the below acronyms in the minutes refer to the follow
 - *OST*: Open Source Tooling group https://github.com/Open-Source-Compliance/Sharing-creates-value
 - *ORT*: OSS Review Toolkit https://oss-review-toolkit.org
 - *TODO*: The TODO group https://todogroup.org/
-
