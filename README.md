@@ -18,6 +18,11 @@ As per ORT's charter, the project has a Technical Steering Committee (TSC) made 
 - Sebastian Schuberth ([@sschuberth](https://github.com/sschuberth))
 - Thomas Steenbergen ([@tsteenbe](https://github.com/tsteenbe))
 
+### Series Manager
+
+The charter refers to a Series Manager, which is the Manager of LF Projects ([manager@lfprojects.org](mailto:manager@lfprojects.org)),
+as defined on [lfprojects.org](https://lfprojects.org).
+
 ## Meetings
 
 ### Rules
