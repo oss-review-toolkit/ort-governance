@@ -8,6 +8,16 @@ The charter for OSS Review Toolkit (ORT) can be found at:
 
 https://github.com/oss-review-toolkit/ort-governance/blob/master/CHARTER.md
 
+### Technical Steering Committee
+
+As per ORT's charter, the project has a Technical Steering Committee (TSC) made up of the following members (in alphabetical order):
+
+- Frank Viernau ([@fviernau](https://github.com/fviernau))
+- Marcel Bochtler ([@MarcelBochtler](https://github.com/MarcelBochtler))
+- Martin Nonnenmacher ([@mnonnenmacher](https://github.com/mnonnenmacher))
+- Sebastian Schuberth ([@sschuberth](https://github.com/sschuberth))
+- Thomas Steenbergen ([@tsteenbe](https://github.com/tsteenbe))
+
 ## Meetings
 
 ### Rules
