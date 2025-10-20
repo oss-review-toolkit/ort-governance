@@ -37,4 +37,3 @@ Unless otherwise indicated the below acronyms in the minutes refer to the follow
 - *OST*: Open Source Tooling group https://github.com/Open-Source-Compliance/Sharing-creates-value
 - *ORT*: OSS Review Toolkit https://oss-review-toolkit.org
 - *TODO*: The TODO group https://todogroup.org/
-
